@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\bin\Debug\netcoreapp3.1\ShopStoAndre.exe
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\bin\Debug\netcoreapp3.1\ShopStoAndre.deps.json
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\bin\Debug\netcoreapp3.1\ShopStoAndre.runtimeconfig.json
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\bin\Debug\netcoreapp3.1\ShopStoAndre.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\bin\Debug\netcoreapp3.1\ShopStoAndre.dll
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\bin\Debug\netcoreapp3.1\ShopStoAndre.pdb
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\obj\Debug\netcoreapp3.1\ShopStoAndre.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\obj\Debug\netcoreapp3.1\ShopStoAndre.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\obj\Debug\netcoreapp3.1\ShopStoAndre.AssemblyInfo.cs
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\obj\Debug\netcoreapp3.1\ShopStoAndre.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\obj\Debug\netcoreapp3.1\ShopStoAndre.dll
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\obj\Debug\netcoreapp3.1\ShopStoAndre.pdb
+C:\Users\juan_\source\repos\ShopStoAndre\ShopStoAndre\obj\Debug\netcoreapp3.1\ShopStoAndre.genruntimeconfig.cache
